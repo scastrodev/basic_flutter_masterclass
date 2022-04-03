@@ -1,16 +1,7 @@
 # exercise_01
 
-A new Flutter project.
+## What is this project?
+The first part of the first exercise of MasterClass, it's a simple screen reproduced based on a UI given to the students.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Final Result:
+![Result-screenshot](https://user-images.githubusercontent.com/61558146/161432602-3eabe9ae-19c7-4fff-b746-7a50656c0f21.jpg)
